@@ -1,8 +1,8 @@
-[submodule "glassync-frontend"]
-    path = frontend
-    url = https://github.com/holdmysweater/Glassync-Frontend.git
-    branch = main
-[submodule "glassync-backend"]
-    path = backend
-    url = https://github.com/holdmysweater/Glassync-Backend.git
-    branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/holdmysweater/Glassync-Frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/holdmysweater/Glassync-Backend.git
+	branch = main
